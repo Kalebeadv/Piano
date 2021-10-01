@@ -1,0 +1,102 @@
+body
+{
+    text-align: center;
+    background-color: black;
+}
+
+h1
+{
+    font-size: 5rem;
+    color: white;
+    font-family: "Arvo", cursive;
+    text-shadow: 4px  0 gray;
+}
+
+footer
+{
+    font-size: 2rem;
+    font-family: sans-serif;
+    background-color:   white;
+}
+
+.a
+{
+    font-size: 1rem;
+    background-image: url('images/do.jpg');
+    
+    
+    
+}
+
+.s
+{
+    background-image: url('images/re.jpg');
+}
+
+.d
+{
+    background-image: url('images/mi.jpg');
+}
+
+.f
+{
+    background-image: url('images/fa.jpg');
+}
+
+.g
+{
+    background-image: url('images/sol.jpg');
+}   
+
+.h
+{
+    background-image: url('images/la.jpg');
+}
+
+.j
+{
+    background-image: url('images/si.jpg');
+}
+
+.k
+{
+    background-image: url('images/do.jpg');
+}
+
+
+.set
+{
+    margin: 10%
+}
+
+.game-over
+{
+    background-color: green;
+    opacity: 0.8;
+}
+
+.pressed
+{
+    box-shadow:0 3px 4px 0 white;
+}
+
+.red
+{
+    color: red;
+}
+
+.piano
+{
+    outline: none;
+    border: 1px solid #404B69;
+    font-size: 4rem;
+    font-family: 'Arno', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color:grey;
+    text-shadow: 5px  0 #404B69;
+    display: inline-block;
+    width: 50px;
+    height: 150px;
+    
+}
